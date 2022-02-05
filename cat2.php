@@ -1,51 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head> 
-<title>techsohor.com</title> 
-<link rel="stylesheet" type="text/css" href="css/style.css"> 
-</head>
-
-<body>
-
-
-<?php include('header.php');?>
-
-<h2>About  </h2>
-
-<?php include('menu.php');?>
-
-<div class="date"> <h3> ঢাকা ১২:১৬ বুধবার ২ ফেব্রুয়ারি ২০২২, ২০ মাঘ ১৪২৮, ২৯ জমাদিউস-সানি ১৪৪৩  </h3>  <marquee><h4> টেকশহর কনটেন্ট কাউন্সিলর: এপ্রিল থেকেই ভারতে চালু হচ্ছে নিজস্ব ডিজিটাল কারেন্সি।...  </h4> </marquee></div>
- 
-
-<div class="Category1"> 
-<div class="left"> 
- <img src="img/news1.jpg" width="100%" height="270px">
- <h2>এপ্রিলেই নিজস্ব ‘ডিজিটাল কারেন্সি’ আনছে ভারত সরকার</h2>
- <p>টেকশহর কনটেন্ট কাউন্সিলর: এপ্রিল থেকেই ভারতে চালু হচ্ছে নিজস্ব ডিজিটাল কারেন্সি।...  </p>
-</div>
-
-<div class="middle"> 
- <img src="img/news2.png" width="100%" height="125px">
- <h4>ফিল্যান্সারদের নগদ প্রণোদনা দিতে ৫৫ মার্কেটপ্লেসকে স্বীকৃতি</h4>
- <br> <br>
- <img src="img/news3.png" width="100%" height="125px">
- <h4>ম্যাসেঞ্জারে ‘একঝাঁক’ নতুন সুবিধা যোগ!</h4>
-</div>
-
-<div class="right">   
-<h2>সব খবর </h2>
-<a href="#">অবশেষে আসছে গুগলের স্মার্টওয়াচ</a><hr>
-<a href="#">সংকটে ভারতের গাড়িশিল্প</a><hr>
-<a href="#">মিথ্যা বললেই ধরে ফেলবে প্রযুক্তি</a><hr>
-<a href="#">ওয়ার্ডল কিনে নিয়েছে নিউইয়র্ক টাইমস</a><hr>
-<a href="#">টিকটককে টেক্কা দিতে ইউটিউব শর্টসে ভয়েসওভার ফিচার</a>
-
-</div>
-
-</div>
-
-
 <div class="Category2"> 
 <div class="Category2-left"> 
 <h2>
@@ -111,15 +63,3 @@
 </div>
 
 </div>
-
-
- 
- 
-<div class="footer"> <hr><h4>
-<h3> Techshohor.com</h3>
-বাড়ি নং : ২২০, রোড নং : ২, বারিধারা ডিওএইচএস, ঢাকা-১২০৬ মোবাইল নং : ০১৭৬১৬৪৪০৭৮, ই-মেইল : info@techshohor.com
-</h4></div>
-  
-</body>
-
-</html>

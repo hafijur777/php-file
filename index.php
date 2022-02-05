@@ -1,29 +1,22 @@
+
 <!DOCTYPE html>
 <html>
-	<head><title>Contact Page</title>
-		<link rel="stylesheet" href="style.css">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+<head> 
+<title>techsohor.com</title> 
+<link rel="stylesheet" type="text/css" href="css/style.css"> 
 </head>
-	<body>
-	<?php include('header.php')?>
-	<?php include('menu.php')?>
-    <?php include('main.php') ?>
-	<?php include('footer.php')?>
-	</body>
-</html>
+
+<body>
+
+<?php include('header.php');?>
+<?php include('menu.php');?>
 
 
 
+<div class="date"> <h3> ঢাকা ১২:১৬ বুধবার ২ ফেব্রুয়ারি ২০২২, ২০ মাঘ ১৪২৮, ২৯ জমাদিউস-সানি ১৪৪৩  </h3>  <marquee><h4> টেকশহর কনটেন্ট কাউন্সিলর: এপ্রিল থেকেই ভারতে চালু হচ্ছে নিজস্ব ডিজিটাল কারেন্সি।...  </h4> </marquee></div>
+ 
+<?php include('cat1.php');?>
+<?php include('cat2.php');?>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<?php include('footer.php');?>
+ 

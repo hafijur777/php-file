@@ -1,14 +1,3 @@
 <div class="header">
-	<a href="index.php"> <h2>Click The Photo</h2></a>
+ <h1><span style="color:gray;">Tech<span style="color:blue;">sohor<span style="color:green;">.com</span>  </h1>
 </div>
-
-
-
-
-
-
-
-
-
-
-
