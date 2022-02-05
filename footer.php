@@ -1,12 +1,8 @@
-<div class="footer">
-	<h2> MM HAFIJUR RAHMAN<h2>
-	<p> <i class="fas fa-map-marker-alt"></i> Address: Bus-Stand, Khaja Super Market, 1207 Mirpur Rd, Dhaka 1207</p>
-	<div class="media">
-		<a href="#"><i class="fab fa-youtube"></i> Youtube</a>
-		<a href="#"> <i class="fab fa-twitter"></i> Twatier</a>
-		<a href="#"><i class="fab fa-linkedin"></i> Linkden</a>
-		<a href="#"> <i class="fab fa-facebook"></i> Facebook</a>
-	
-	</div>
-	
-</div>	
+<div class="footer"> <hr><h4>
+<h3> Techshohor.com</h3>
+বাড়ি নং : ২২০, রোড নং : ২, বারিধারা ডিওএইচএস, ঢাকা-১২০৬ মোবাইল নং : ০১৭৬১৬৪৪০৭৮, ই-মেইল : info@techshohor.com
+</h4></div>
+  
+</body>
+
+</html>
